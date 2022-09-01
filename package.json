@@ -1,11 +1,11 @@
 {
-  "name": "helioslauncher",
-  "version": "1.9.0",
+  "name": "civilcraft",
+  "version": "1.8.9",
   "productName": "Helios Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et harden",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/harden92/civilcraft",
   "bugs": {
     "url": "https://github.com/dscalzi/HeliosLauncher/issues"
   },
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "https://github.com/harden92/civilcraft"
   }
 }
